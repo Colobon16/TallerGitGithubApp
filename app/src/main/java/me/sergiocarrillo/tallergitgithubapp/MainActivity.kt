@@ -126,7 +126,7 @@ fun TarjetaPresentacion() {
                     )
                     Spacer(modifier = Modifier.height(4.dp))
                     Text(
-                        text = "Me apasiona el Desarrollo de Aplicaciones Móviles porque permite transformar ideas en herramientas tangibles que las personas usan a diario. Me encanta el reto de diseñar interfaces intuitivas.",
+                        text = "Me apasiona el Desarrollo de Aplicaciones Móviles porque permite transformar ideas en herramientas tangibles que las personas usan a diario. Me encanta el reto de diseñar interfaces intuitivas. Aprender algo nuevo que me ayude a mejorar siempre va a ser bueno.",
                         fontSize = 12.sp,
                         color = Color(0xFF64748B)
                     )
